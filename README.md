@@ -1,4 +1,8 @@
-# Mage: Multi-Agent Collaboration Framework  
+# Hey There 👋
+
+
+
+## Mage: Multi-Agent Collaboration Framework  
 
 Mage is an innovative tool designed for cryptocurrency investors. By integrating multiple intelligent agents, Mage provides real-time market analysis, tracks trends, and evaluates trading data to help users make informed investment decisions.  
 
